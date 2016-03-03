@@ -1,2 +1,2 @@
 # Laboratorio de genética acuícola.
-# trabajamos con *Haliotis fulgens*, abulñon azul.
+# trabajamos con *Haliotis fulgens*, abulón azul.
