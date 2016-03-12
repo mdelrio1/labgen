@@ -2,8 +2,7 @@
 Reomendaciones para usar el Mark down
 
 ## para escribir código o texto sin formato
-### en Java
-```javascript
+```
 function fancyAlert(arg) {
   if(arg) {
     $.facebox({div:'#foo'})
@@ -20,10 +19,9 @@ function fancyAlert(arg) {
 
 ### Python
 
-def foo():
-    if not bar:
-        return True
-        
+  def foo():
+      if not bar:
+          return True
 
 Para escribir una lista
 ## trabajamos con diferentes especies de abulón
@@ -32,13 +30,15 @@ Para escribir una lista
 3. *Haliotis corrugata*, abulón amarillo
 
 
-## lista de actividades que se desea indicar qué se ha concluido:
-```- [x] @usuario, se usa para señalar a algún usuario del github
+## para indicar una lista de actividades terminadas y pendientes:
+```
+- [x] @usuario, se usa para señalar a algún usuario del github
 - [x] #refs, 
 - [x] los enlaces a otras páginas 
 - [x] al poner 'x' se indica que se ha terminado '√'
 - [ ] al no escribir 'x' la actividad está pendiente
 ```
+
 - [x] @usuario, se usa para señalar a algún usuario del github
 - [x] #refs, 
 - [x] los enlaces a otras páginas 
