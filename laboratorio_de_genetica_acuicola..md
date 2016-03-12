@@ -58,4 +58,4 @@ por ejemplo:
 `:bowtie:` :bowtie:
 `:+1:` :+1:
 
-### más información sobre [Mark down](https://help.github.com/articles/basic-writing-and-formatting-syntax/#using-emoji)
+### más información sobre [Mark down](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
