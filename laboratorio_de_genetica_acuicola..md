@@ -1,8 +1,7 @@
 # Laboratorio de genética acuícola.
-# trabajamos con *Haliotis fulgens*, abulón azul.
+Reomendaciones para usar el Mark down
 
-
-## para escribir código
+## para escribir código o texto sin formato
 ### en Java
 ```javascript
 function fancyAlert(arg) {
@@ -26,13 +25,25 @@ def foo():
         return True
         
 
+Para escribir una lista
+## trabajamos con diferentes especies de abulón
+1. *Haliotis fulgens*, abulón azul.
+2. *Haliotis rufescens*, abulón rojo
+3. *Haliotis corrugata*, abulón amarillo
 
 
-## lista de actividades, por ejemplo:
-- [x] @mentions, #refs, [enlaces](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+## lista de actividades que se desea indicar qué se ha concluido:
+```- [x] @usuario, se usa para señalar a algún usuario del github
+- [x] #refs, 
+- [x] los enlaces a otras páginas 
+- [x] al poner 'x' se indica que se ha terminado '√'
+- [ ] al no escribir 'x' la actividad está pendiente
+```
+- [x] @usuario, se usa para señalar a algún usuario del github
+- [x] #refs, 
+- [x] los enlaces a otras páginas 
+- [x] al poner 'x' se indica que se ha terminado '√'
+- [ ] al no escribir 'x' la actividad está pendiente
 
 
 ## Tablas
