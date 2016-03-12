@@ -32,14 +32,14 @@ Para escribir una lista
 
 ## para indicar una lista de actividades terminadas y pendientes:
 ```
-- [x] @usuario, se usa para señalar a algún usuario del github
+- [x] @mdelrio1, se usa para señalar a algún usuario del github
 - [x] #refs, 
 - [x] los enlaces a otras páginas 
 - [x] al poner 'x' se indica que se ha terminado '√'
 - [ ] al no escribir 'x' la actividad está pendiente
 ```
 
-- [x] @usuario, se usa para señalar a algún usuario del github
+- [x] @mdelrio1, se usa para señalar a algún usuario del github
 - [x] #refs, 
 - [x] los enlaces a otras páginas 
 - [x] al poner 'x' se indica que se ha terminado '√'
