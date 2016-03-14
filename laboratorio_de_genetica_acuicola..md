@@ -60,7 +60,7 @@ Nombre columna 1| Nombre columna 2| Nombre *columna* 3|
 ----------------|-----------------|-------------------|
 valor 1|valor 2|valor 3|
 
-Nota: se debe tener cuidado de tener un espacio antes y otro después de la tabla.
+#### Nota: se debe tener cuidado de tener un espacio antes y otro después de la tabla.
 
 Se pueden ageegar emosiones usando los códigos entre :código: que se encuentran en:
 [emoticons](http://www.emoji-cheat-sheet.com)
