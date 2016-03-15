@@ -62,7 +62,7 @@ valor 1|valor 2|valor 3|
 
 #### Nota: se debe tener cuidado de tener un espacio antes y otro después de la tabla.
 
-Se pueden ageegar emosiones usando los códigos entre :código: que se encuentran en:
+Se pueden agregar emosiones usando los códigos entre :código: que se encuentran en:
 [emoticons](http://www.emoji-cheat-sheet.com)
 por ejemplo: 
 `:smiley:` :smiley:
