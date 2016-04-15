@@ -2,7 +2,7 @@
 
 Mohamed Salem, Roger L. Vallejo, Timothy D. Leeds, Yniv Palti, Sixin Liu, Annas Sabbagh, Caird E. Rexroad III, Jianbo Yao.
  
-![PLOS ONE, 2012.]<http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0036264>
+[PLOS ONE, 2012.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0036264)
 
 ###Resumen
 
