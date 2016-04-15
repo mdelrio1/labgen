@@ -20,4 +20,4 @@ De estos siete microsatélites amplificados se identifico que 5 eran polimórfic
 <center><img src="http://lifescience.biomedal.com/wp-content/uploads/2013/03/cloning.jpg" = 200%>
 </center>
 
-Cruz, P., Mejia‐Ruiz, C. H., Perez‐Enriquez, R., & Ibarra, A. M. (2002). Isolation and characterization of microsatellites in Pacific white shrimp Penaeus (Litopenaeus) vannamei. [Molecular Ecology Notes, 2(3), 239-241.](https://www.researchgate.net/profile/Ana_M_Ibarra/publication/230096475_Isolation_and_characterization_of_microsatellites_in_Pacific_white_shrimp_Penaeus_(Litopenaeus)_vannamei/links/00b7d5149f5fa195f6000000.pdf)
+[Cruz, P., Mejia‐Ruiz, C. H., Perez‐Enriquez, R., & Ibarra, A. M. (2002). Isolation and characterization of microsatellites in Pacific white shrimp Penaeus (Litopenaeus) vannamei. Molecular Ecology Notes, 2(3), 239-241.](https://www.researchgate.net/profile/Ana_M_Ibarra/publication/230096475_Isolation_and_characterization_of_microsatellites_in_Pacific_white_shrimp_Penaeus_(Litopenaeus)_vannamei/links/00b7d5149f5fa195f6000000.pdf)
