@@ -69,4 +69,12 @@ por ejemplo:
 `:bowtie:` :bowtie:
 `:+1:` :+1:
 
+para escribir superíndices se usa 
+`O(n<sup>2</sup>)`
+O(n<sup>2</sup>)
+
+para justificar texto
+
+-> texto <-
+
 ### más información sobre [Mark down](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
