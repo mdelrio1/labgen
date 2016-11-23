@@ -1,27 +1,8 @@
 # Laboratorio de genética acuícola.
-Reomendaciones para usar el Mark down
 
-## para escribir código o texto sin formato
-```
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
+Markdown es un lenguaje de marcado de texto o una forma de escribir textos para páginas de internet tipo html y que se utiliza en la platforma del [GitHub] (https://github.com).
 
-### código simple
-    function fancyAlert(arg) {
-      if(arg) {
-        $.facebox({div:'#foo'})
-      }
-    }
-
-### Python
-
-  def foo():
-      if not bar:
-          return True
+Reomendaciones para usar el [Mark down] (https://guides.github.com/features/mastering-markdown/)
 
 Para escribir una lista
 ## trabajamos con diferentes especies de abulón
@@ -76,5 +57,27 @@ O(n<sup>2</sup>)
 para justificar texto
 
 -> texto <-
+
+## para escribir código o texto sin formato
+```
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
+### código simple
+    function fancyAlert(arg) {
+      if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
+
+### Python
+
+  def foo():
+      if not bar:
+          return True
 
 ### más información sobre [Mark down](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
