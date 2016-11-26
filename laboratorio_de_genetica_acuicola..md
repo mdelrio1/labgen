@@ -17,6 +17,40 @@ con el resultado siguiente:
 2. *Haliotis rufescens*, abulón rojo
 3. *Haliotis corrugata*, abulón amarillo
 
+## así como de peces
+1. Marinos
+  * Jurel
+  * Totoaba
+  * Lenguado
+2. De agua dulce
+  * Tilapia
+  * Trucha
+
+entre otros 
+
+También se pueden combinar tipos de letra o efecto al texto
+```
+*Este texto se escribirá en itálicas*
+
+_Este también se escribirá en itálicas_
+
+**En negritas**
+
+__También en negritas__
+
+_Se **pueden** combinar_
+```
+
+*Este texto se escribirá en itálicas*
+
+_Este también se escribirá en itálicas_
+
+**En negritas**
+
+__También en negritas__
+
+_Se **pueden** combinar_
+
 El símbolo # al inicio de la línea indica un encabezado, por ejemplo el siguiente código
 ```
 # Encabezado 1
@@ -71,7 +105,6 @@ obsérvese que columna del encabezado 3 está parcialmente en itálicas
 - [ ] al no escribir 'x' la actividad está pendiente
 
 
-
 Se pueden agregar emosiones usando los códigos entre :código: que se encuentran en:
 [emoticons](http://www.emoji-cheat-sheet.com)
 por ejemplo: 
@@ -111,3 +144,4 @@ def foo():
           return True
 ```
 ### más información sobre [Mark down](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+
