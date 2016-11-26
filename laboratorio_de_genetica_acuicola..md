@@ -1,15 +1,59 @@
 # Laboratorio de genética acuícola.
 
-Markdown es un lenguaje de marcado de texto o una forma de escribir textos para páginas de internet tipo html y que se utiliza en la platforma del [GitHub] (https://github.com).
+Markdown es un lenguaje de marcado de texto o una forma de escribir textos para páginas de internet tipo html y que se utiliza en la platforma del [GitHub] (https://github.com). Utiliza texto sencillo para poner el texto en itálicas, negritas, hacer tablas, listas, etc.
 
-Reomendaciones para usar el [Mark down] (https://guides.github.com/features/mastering-markdown/)
+En la siguiente dirección se encuentran recomendaciones para usar el [Mark down] (https://guides.github.com/features/mastering-markdown/)
 
-Para escribir una lista
-## trabajamos con diferentes especies de abulón
+Por ejemplo para escribir una lista resaltando el encabezado y poniendo una lista con el nombre de las especies de abulón en itálicas y el nombre común en texto normal sería de la siguiente forma:
+```
+## Trabajamos con diferentes especies de abulón
+1. *Haliotis fulgens*, abulón azul.
+2. *Haliotis rufescens*, abulón rojo
+3. *Haliotis corrugata*, abulón amarillo
+```
+con el resultado siguiente:
+## Trabajamos con diferentes especies de abulón
 1. *Haliotis fulgens*, abulón azul.
 2. *Haliotis rufescens*, abulón rojo
 3. *Haliotis corrugata*, abulón amarillo
 
+El símbolo # al inicio de la línea indica un encabezado, por ejemplo el siguiente código
+```
+# Encabezado 1
+## Encabezado 2
+### Encabezado 3
+#### Encabezado 4
+#### Encabezado 5
+```
+dará como resultado:
+# Encabezado 1
+## Encabezado 2
+### Encabezado 3
+#### Encabezado 4
+#### Encabezado 5
+se recomiendo dejar un espacio después del último #, porque he observado que en otros editores que usan Markdown no ponen la línea como encabezado si no hay espacio.
+
+## Tablas
+
+Este código 
+```
+Nombre columna 1| Nombre columna 2| Nombre *columna* 3| 
+----------------|-----------------|-------------------|
+valor 1|valor 2|valor 3|
+valor 4|valor 5|valor 6|
+valor 7|valor 8|valor 9|
+```
+generará la tabla siguiente:
+
+Nombre columna 1| Nombre columna 2| Nombre *columna* 3| 
+----------------|-----------------|-------------------|
+valor 1|valor 2|valor 3|
+valor 4|valor 5|valor 6|
+valor 7|valor 8|valor 9|
+
+obsérvese que columna del encabezado 3 está parcialmente en itálicas
+
+#### Nota: se debe tener cuidado de tener un espacio antes y otro después de la tabla.
 
 ## para indicar una lista de actividades terminadas y pendientes:
 ```
@@ -27,21 +71,6 @@ Para escribir una lista
 - [ ] al no escribir 'x' la actividad está pendiente
 
 
-## Tablas
-
-Este código 
-```
-Nombre columna 1| Nombre columna 2| Nombre *columna* 3| 
-----------------|-----------------|-------------------|
-valor 1|valor 2|valor 3|
-```
-generará la tabla siguiente:
-
-Nombre columna 1| Nombre columna 2| Nombre *columna* 3| 
-----------------|-----------------|-------------------|
-valor 1|valor 2|valor 3|
-
-#### Nota: se debe tener cuidado de tener un espacio antes y otro después de la tabla.
 
 Se pueden agregar emosiones usando los códigos entre :código: que se encuentran en:
 [emoticons](http://www.emoji-cheat-sheet.com)
