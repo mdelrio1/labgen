@@ -105,8 +105,9 @@ function fancyAlert(arg) {
 
 ### Python
 
-  def foo():
+```
+def foo():
       if not bar:
           return True
-
+```
 ### más información sobre [Mark down](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
