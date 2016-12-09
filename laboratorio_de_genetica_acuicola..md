@@ -10,6 +10,17 @@ Por ejemplo para escribir una lista resaltando el encabezado y poniendo una list
 1. *Haliotis fulgens*, abulón azul.
 2. *Haliotis rufescens*, abulón rojo
 3. *Haliotis corrugata*, abulón amarillo
+
+## así como de peces
+1. Marinos
+  * Jurel
+  * Totoaba
+  * Lenguado
+2. De agua dulce
+  * Tilapia
+  * Trucha
+
+entre otros 
 ```
 con el resultado siguiente:
 ## Trabajamos con diferentes especies de abulón
