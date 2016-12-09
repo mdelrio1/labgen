@@ -128,10 +128,14 @@ para escribir superíndices se usa
 O(n<sup>2</sup>)
 
 para justificar texto
+```
+-> texto <-
+```
 
 -> texto <-
 
-## para escribir código o texto sin formato
+## para escribir código o texto sin formato se utilizan tres "`"
+
 ```
 function fancyAlert(arg) {
   if(arg) {
